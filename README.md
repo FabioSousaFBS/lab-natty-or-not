@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🛒 Comparador de Preços de Supermercado com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste em um aplicativo desenvolvido na plataforma **PartyRock (AWS)** que utiliza **IA Generativa** para analisar imagens de encartes (flyers) de supermercados e ajudar o usuário a encontrar os melhores preços para sua lista de compras.
+
+O usuário pode fazer o upload de múltiplos encartes, informar o nome dos supermercados correspondentes e, a partir disso, o app gera uma **tabela comparativa** destacando onde cada produto está mais barato, facilitando a tomada de decisão na hora das compras.
+
+👉 **Acesse o app:**  
+https://partyrock.aws/u/fabiobs25/mmVGnz434/Comparador-de-Precos-de-Supermercado
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **AWS PartyRock**
+- **IA Generativa da AWS (Amazon Bedrock)**
+- Análise de imagens (encartes de supermercado)
+- Processamento de linguagem natural (extração e comparação de preços)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O aplicativo foi desenvolvido diretamente na plataforma PartyRock, utilizando prompts e recursos de IA generativa para:
+
+1. Interpretar imagens de encartes de supermercados;
+2. Extrair informações relevantes como nomes de produtos e preços;
+3. Associar cada encarte ao supermercado informado pelo usuário;
+4. Comparar os valores entre diferentes supermercados;
+5. Gerar uma tabela clara indicando o melhor preço para cada item.
+
+Todo o fluxo foi pensado para ser simples e intuitivo, permitindo que qualquer pessoa consiga comparar preços apenas enviando imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, o app entrega uma **tabela comparativa de preços**, mostrando:
+- Os produtos identificados nos encartes;
+- Os preços praticados por cada supermercado;
+- Onde encontrar o melhor custo-benefício para cada item.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O projeto demonstra na prática como a **IA Generativa pode ser aplicada para resolver problemas do dia a dia**, como economia doméstica e planejamento de compras.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O desafio foi criar uma solução realmente útil e natural, mostrando como a IA generativa pode ser aplicada a problemas reais do cotidiano.
